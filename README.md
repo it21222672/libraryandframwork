@@ -27,3 +27,5 @@ The technical difference between framework and library in a term called inversio
 
 When user use the library , you are in charge of the flow of the application. User choosing when and where to call the library.
 When user use the framework the in charge is the itself. It provide some place for you to plug in your code , but it call the code you plug in as needed.
+
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.684760139666e4c6b59e65514c087098?rik=ixzMw2YMyHLLGw&riu=http%3a%2f%2fwww.anarsolutions.com%2fwp-content%2fuploads%2f2019%2f02%2fLibrary-and-Framework.jpg&ehk=4i3EdUh7eMv2r4vlQNMjGV7Lky6esXWLs2CknR%2fhcY8%3d&risl=&pid=ImgRaw&r=0">
